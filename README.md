@@ -1,2 +1,2 @@
-# HW1
-CSc 336 - HW1 
+# Homeworks
+CSc 336 - Homeworks 
